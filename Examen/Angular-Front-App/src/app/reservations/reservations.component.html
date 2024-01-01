@@ -1,0 +1,29 @@
+<div class="p-3">
+  <div class="card">
+    <div class="card-body">
+      <table class="table">
+        <thead>
+        <tr>
+          <th>ID</th><th>Name</th><th>Contexte</th><th>Creation Date</th><th>Duration</th><th>Client Id</th><th>Resource Id</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+        <tr *ngFor="let p of  reservations">
+          <td>{{p.resId}}</td>
+          <td>{{p.resNom}}</td>
+          <td>{{p.resContexte}}</td>
+          <td>{{p.createRes}}</td>
+          <td>{{p.resDuree}}</td>
+          <td>{{p.clientId}}</td>
+          <td>{{p.resourceId}}</td>
+
+        </tr>
+
+      </table>
+    </div>
+  </div>
+</div>
+
+
