@@ -1,0 +1,12 @@
+C:\Users\triangle info\Desktop\Sanaa\Master_SDIA\S3\SystemDistr2\Examen\resources-service\src\main\java\ma\enset\resourcesservice\repository\resourceRepository.java
+C:\Users\triangle info\Desktop\Sanaa\Master_SDIA\S3\SystemDistr2\Examen\resources-service\src\main\java\ma\enset\resourcesservice\ResourcesServiceApplication.java
+C:\Users\triangle info\Desktop\Sanaa\Master_SDIA\S3\SystemDistr2\Examen\resources-service\src\main\java\ma\enset\resourcesservice\entities\resource.java
+C:\Users\triangle info\Desktop\Sanaa\Master_SDIA\S3\SystemDistr2\Examen\resources-service\src\main\java\ma\enset\resourcesservice\enums\ResourceType.java
+C:\Users\triangle info\Desktop\Sanaa\Master_SDIA\S3\SystemDistr2\Examen\resources-service\src\main\java\ma\enset\resourcesservice\service\ResourceService.java
+C:\Users\triangle info\Desktop\Sanaa\Master_SDIA\S3\SystemDistr2\Examen\resources-service\src\main\java\ma\enset\resourcesservice\web\resourceRestController.java
+C:\Users\triangle info\Desktop\Sanaa\Master_SDIA\S3\SystemDistr2\Examen\resources-service\src\main\java\ma\enset\resourcesservice\dtos\ResourceResponseDto.java
+C:\Users\triangle info\Desktop\Sanaa\Master_SDIA\S3\SystemDistr2\Examen\resources-service\src\main\java\ma\enset\resourcesservice\sec\JwtAuthConverter.java
+C:\Users\triangle info\Desktop\Sanaa\Master_SDIA\S3\SystemDistr2\Examen\resources-service\src\main\java\ma\enset\resourcesservice\dtos\ResourceRequestDto.java
+C:\Users\triangle info\Desktop\Sanaa\Master_SDIA\S3\SystemDistr2\Examen\resources-service\src\main\java\ma\enset\resourcesservice\sec\SecurityConfig.java
+C:\Users\triangle info\Desktop\Sanaa\Master_SDIA\S3\SystemDistr2\Examen\resources-service\src\main\java\ma\enset\resourcesservice\service\ResourceServiceImp.java
+C:\Users\triangle info\Desktop\Sanaa\Master_SDIA\S3\SystemDistr2\Examen\resources-service\src\main\java\ma\enset\resourcesservice\mapper\ResourceMapper.java

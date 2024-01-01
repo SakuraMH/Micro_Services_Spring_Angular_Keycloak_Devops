@@ -1,0 +1,15 @@
+ma\enset\resourcesservice\mapper\ResourceMapper.class
+ma\enset\resourcesservice\service\ResourceServiceImp.class
+ma\enset\resourcesservice\dtos\ResourceRequestDto.class
+ma\enset\resourcesservice\service\ResourceService.class
+ma\enset\resourcesservice\entities\resource.class
+ma\enset\resourcesservice\dtos\ResourceResponseDto$ResourceResponseDtoBuilder.class
+ma\enset\resourcesservice\web\resourceRestController.class
+ma\enset\resourcesservice\repository\resourceRepository.class
+ma\enset\resourcesservice\dtos\ResourceRequestDto$ResourceRequestDtoBuilder.class
+ma\enset\resourcesservice\entities\resource$resourceBuilder.class
+ma\enset\resourcesservice\sec\JwtAuthConverter.class
+ma\enset\resourcesservice\sec\SecurityConfig.class
+ma\enset\resourcesservice\ResourcesServiceApplication.class
+ma\enset\resourcesservice\enums\ResourceType.class
+ma\enset\resourcesservice\dtos\ResourceResponseDto.class
